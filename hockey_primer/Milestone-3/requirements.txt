@@ -1,0 +1,17 @@
+numpy
+flask
+pandas
+matplotlib
+seaborn
+requests
+opencv-python
+tqdm
+lxml
+plotly
+setuptools
+gunicorn
+scikit-learn
+comet_ml
+jupyterlab
+ipywidgets
+streamlit
